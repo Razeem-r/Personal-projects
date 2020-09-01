@@ -16,4 +16,3 @@
 
 ![Sudoku 3](https://github.com/Razeem-r/Personal-projects/blob/master/images/c.JPG)
 
-![Sudoku 4](https://github.com/Razeem-r/Personal-projects/blob/master/images/D.JPG)
