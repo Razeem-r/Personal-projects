@@ -16,4 +16,4 @@
 
 ![Sudoku 3](https://github.com/Razeem-r/Personal-projects/blob/master/Sudoku%20solver/images/c.JPG)
 
-![Sudoku 3](https://github.com/Razeem-r/Personal-projects/blob/master/Sudoku%20solver/images/d.JPG)
+![Sudoku 3](https://github.com/Razeem-r/Personal-projects/blob/master/Sudoku%20solver/images/d.jpg)
